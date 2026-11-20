@@ -1,6 +1,6 @@
 # Expense Tracker CLI
 
-![tests](https://github.com/YOUR-USERNAME/expense-tracker-cli/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/MirzaSajid/expense-tracker-cli/actions/workflows/tests.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
@@ -24,7 +24,7 @@ of the AI & Python program.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/expense-tracker-cli.git
+git clone https://github.com/MirzaSajid/expense-tracker-cli.git
 cd expense-tracker-cli
 
 # Option A: run directly, nothing to install
